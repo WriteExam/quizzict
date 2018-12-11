@@ -8,6 +8,6 @@
     "authors": "WriteExam.ru",
     "version": "0.0.1",
     "main": "lib/quizzict.js",
-    "dependencies": {},
-    "license": "Apache License v2.0"
+    "license": "Apache License v2.0",
+    "dependencies": {}
 }
