@@ -1,0 +1,13 @@
+{
+    "name": "quizzict",
+    "description": "description",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/write-exam/quizzict"
+    },
+    "authors": "WriteExam.ru",
+    "version": "0.0.1",
+    "main": "lib/quizzict.js",
+    "dependencies": {},
+    "license": "Apache License v2.0"
+}
